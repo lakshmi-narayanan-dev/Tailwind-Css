@@ -1,4 +1,14 @@
-Tailwind utility-first css framework
+Tailwind utility-first css framework, building User friendly website and applications
+Pros - predefined css classes 
+Utility clases are simple html classes typically scoped to focus on single and specific css property. [text-primary / BS & text-[#fffa12] TW] more specific 
+
+Compare BS and TW
+Popular - Both
+Level classes - High vs low
+
+
+
+Great customizable compare to bootstrap , BS as a foundation css framework use classes directly contact with components like alerts, cards and navbars - but tailwind css uses classes as utilities to put together to build your own custom components.
 
 All css inside class helps in reducing css file size.
 layouts create easy and fast.
@@ -7,6 +17,17 @@ Prerequistics - Basic Css Knowledge
 
 Goal is to write not copy code.
 
+----------------------------------------------
+Vs code for editor
+Nodejs is needed if your are using through npm
 
+Installation:
+open terminal / ctrl + ` [bash]
+npm init - npm initialize -
+
+
+
+
+----------------------------------------------
 
 
