@@ -32,3 +32,37 @@ npm init - npm initialize - Create package.json file
 
 https://blog.logrocket.com/css-utility-classes-library-extendable-styles/
 https://www.frontendmentor.io/
+
+----------------------------------------------
+
+---------------
+Tailwind Css
+---------------
+Cdn + Html
+Installation + React 
+
+Utility First , Mobile First
+Its Bs with flexible customization
+
+https://www.tailbits.com/  
+https://kitwind.io/products/kometa/components/headers 
+https://tailgrail.com/tailwind/dashboard 
+https://www.hyperui.dev/ 
+https://tailwindflex.com/diego-chavez/join-our-community-banner 
+
+Colors - TW
+BW-TOP-GRIP-BY
+Opacity [100 to 900]
+bg- , border-
+
+Sizing - TW:
+w-4 [1rem] , w-full , w-screen [100% viewport]
+[0 to 12 , 14 , 16 , 20 , … , 64 , 72 , 80, 96]
+ n/12
+Height also h-value
+
+Spacing - TW:
+px , py , mt , mb , pr , pl , px-[attribute value]
+
+
+
