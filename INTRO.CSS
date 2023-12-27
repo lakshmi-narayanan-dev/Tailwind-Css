@@ -1,54 +1,39 @@
+--------------------------------------
+Prerequistics - Basic Css Knowledge
+---------------------------------------
 Tailwind utility-first css framework, building User friendly website and applications
 Pros - predefined css classes 
 Utility clases are simple html classes typically scoped to focus on single and specific css property. [text-primary / BS & text-[#fffa12] TW] more specific 
 
-Compare BS and TW
+-----------------------------
+Bootstrap 5 vs Tailwind Css
+-----------------------------
 Popular - Both
 Level classes - High vs low
-
-Great customizable compare to bootstrap , BS as a foundation css framework use classes directly contact with 
-components like alerts, cards and navbars - but tailwind css uses classes as utilities to put together to build your own custom components.
-
+Its Bs with flexible customization
+Utility First , Mobile First
+Great customizable compare to bootstrap , BS as a foundation css framework use classes directly contact with components like alerts, cards and navbars , but
+Tailwind css uses classes as utilities to put together to build your own custom components.
 All css inside class helps in reducing css file size.
 layouts create easy and fast.
 
-Prerequistics - Basic Css Knowledge
-
-Goal is to write not copy code.
-
-Vs code for editor
-Nodejs is needed if your are using through npm
-
-Installation:
-open terminal / ctrl + ` [bash]
+---------------------
+Installation / CDN
+---------------------
+html -> <script src="https://cdn.tailwindcss.com"></script>
+CLI -> https://tailwindcss.com/docs/installation
 npm init - npm initialize - Create package.json file 
 
-
-
-
-----------------------------------------------
-
-https://blog.logrocket.com/css-utility-classes-library-extendable-styles/
-https://www.frontendmentor.io/
-
-----------------------------------------------
-
----------------
-Tailwind Css
----------------
-Cdn + Html
-Installation + React 
-
-Utility First , Mobile First
-Its Bs with flexible customization
-
-https://www.tailbits.com/  
+-----------------------------------
+Pre-Developed Components Examples
+-----------------------------------
+https://www.tailbits.com/
 https://kitwind.io/products/kometa/components/headers 
 https://tailgrail.com/tailwind/dashboard 
 https://www.hyperui.dev/ 
 https://tailwindflex.com/diego-chavez/join-our-community-banner 
 
-
-
-
-
+----------------------------
+Utility Components
+----------------------------
+https://blog.logrocket.com/css-utility-classes-library-extendable-styles/
