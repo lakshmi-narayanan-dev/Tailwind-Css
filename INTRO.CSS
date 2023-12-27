@@ -6,9 +6,8 @@ Compare BS and TW
 Popular - Both
 Level classes - High vs low
 
-
-
-Great customizable compare to bootstrap , BS as a foundation css framework use classes directly contact with components like alerts, cards and navbars - but tailwind css uses classes as utilities to put together to build your own custom components.
+Great customizable compare to bootstrap , BS as a foundation css framework use classes directly contact with 
+components like alerts, cards and navbars - but tailwind css uses classes as utilities to put together to build your own custom components.
 
 All css inside class helps in reducing css file size.
 layouts create easy and fast.
@@ -17,7 +16,6 @@ Prerequistics - Basic Css Knowledge
 
 Goal is to write not copy code.
 
-----------------------------------------------
 Vs code for editor
 Nodejs is needed if your are using through npm
 
@@ -50,19 +48,7 @@ https://tailgrail.com/tailwind/dashboard
 https://www.hyperui.dev/ 
 https://tailwindflex.com/diego-chavez/join-our-community-banner 
 
-Colors - TW
-BW-TOP-GRIP-BY
-Opacity [100 to 900]
-bg- , border-
 
-Sizing - TW:
-w-4 [1rem] , w-full , w-screen [100% viewport]
-[0 to 12 , 14 , 16 , 20 , … , 64 , 72 , 80, 96]
- n/12
-Height also h-value
-
-Spacing - TW:
-px , py , mt , mb , pr , pl , px-[attribute value]
 
 
 
