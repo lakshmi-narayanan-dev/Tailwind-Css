@@ -13,7 +13,139 @@ w-4 [1rem] , w-full , w-screen [100% viewport]
 n/12
 Height also h-value
 
------------------
-Spacing - TW
------------------
+4 = 1rem = 16px
+1 = .25rem = 4px
+w-screen [100vw]
+w-full [100%] 
+w-5/12 [41..%] = during multiple elements in a row.
+
+--------------------------------
+Spacing - TW - padding + margin
+--------------------------------
 px , py , mt , mb , pr , pl , px-[attribute value]
+px-auto [equally split accordingly]
+
+--------------------------
+text - size color align
+--------------------------
+text-white , text-[#aed234] , text-indigo-400 
+
+text-center , text-left , text-right , text-justify
+
+text-xs = .75rem = 12px
+text-sm = .875rem = 14px
+text-base = 1rem = 16px
+text-lg = 1.125rem = 18px
+text-xl = 1.25rem = 20px
+text-2xl = 1.5rem = 24px
+text-3xl = 1.875rem = 30px
+---------------------------
+text-4xl = 2.25rem = 36px
+text-5xl = 3rem = 48px
+text-6xl = 3.75rem = 60px
+text-7xl = 4.5rem = 72px
+text-8xl = 6rem = 96px
+text-9xl = 8rem = 128px
+
+
+-------------------------------------------------------------
+font weight decoraration transform line-height letter space
+-------------------------------------------------------------
+font-thin = 100
+font-extralight = 200
+font-light = 300
+font-normal = 400
+font-medium = 500
+font-semibold = 600
+font-bold = 700
+font-extrabold = 800
+font-black = 900
+
+
+tracking-normal = 0rem letter spacing
+tracking-wide = .25rem letter spacing
+
+leading-none = 1
+leading-normal = 1.5
+leading-loose = 2
+
+underline , no-underline , line-through , overline = text decoration
+
+uppercase , lowercase , capitalize = text-transform
+
+-----------------------
+Borders
+-----------------------
+border = 1px , border-0 = 0px , border-2 = 2px , border-4 = 4px => border size
+ 
+border-black , border-[#fgh556] = border color
+
+border-t-4 , border-l-2 , border-r-0 , border-b-[4px] , border-x-2 , border-y-4 = border sides 
+divide-y-2 divide-color [apply border child elements in parent div itself]
+
+border-solid , dashed , double , dotted , none = border style
+
+border radius = none , rounded-full , rounded-md [6px] , rounded-lg [8px]
+
+----------------
+Display
+----------------
+block , inline-block , inline , flex , hidden
+
+horizontal flex = justify-center , around , between , end , start
+vertical flex = align-center , end , start 
+
+flex-row , row-reverse , column , column-reverse 
+
+flex-wrap , no-wrap , wrap-reverse
+
+-----------------------
+Responsiveness
+-----------------------
+sm - 640px
+md - 768px
+lg - 1024px
+xl - 1280px
+2xl - 1536px
+
+md-flex , sm-block
+if its less than 640px no mentioning of display
+
+---------------
+Hover + focus
+---------------
+hover :bg-color , :border-color , :text-black , :font-bold 
+focus :bg-color , :border-color , :text-black , :font-bold
+
+-----------
+Box-shadow
+-----------
+shadow-md , shadow-lg , shadow-xl , shadow-2xl 
+
+----------
+overflow
+----------
+truncate = hidden , ellipses , no-wrap
+elippsis = same as truncate
+text-clip = hidden , no elippses & wrap
+
+--------
+opacity
+--------
+opacity - 0 5 10 15 20 .....  90 95 100 [%]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
