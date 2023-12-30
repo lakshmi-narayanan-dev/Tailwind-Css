@@ -37,3 +37,34 @@ https://tailwindflex.com/diego-chavez/join-our-community-banner
 Utility Components
 ----------------------------
 https://blog.logrocket.com/css-utility-classes-library-extendable-styles/
+
+-------------------
+yarn install
+-------------------
+yarn add -D tailwindcss
+
+index.css
+----------
+@tailwind-base; [custom base style]
+@tailwind-components; [custom components]
+@tailwind-utilities; [custom utilities]
+
+Customisation in tailwind
+-------------------------
+npx tailwind init => tailwind.config.js => 
+theme : {
+screens :{
+  'sm' : '400px' ;
+}
+}
+
+we can customized sm value to our desired value.
+
+
+
+
+
+
+
+
+
